@@ -18,3 +18,7 @@ This is a 1 page landing page.
 ### `window` get the viewport size & trigger event while resizing
 
 `window.addEventListener('resize', showButton)`
+
+### When do we use object-fit
+
+It's for to set a replaced element such as an `<img>`, `<video>` or `<iframe>` tag to fit its container. 
