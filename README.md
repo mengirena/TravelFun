@@ -22,3 +22,11 @@ This is a 1 page landing page.
 ### When do we use object-fit
 
 It's for to set a replaced element such as an `<img>`, `<video>` or `<iframe>` tag to fit its container. 
+
+### Differernce between Drop Shadow and Box Shadow
+
+1. Drop shadow doesnt' follow box-model so it will ignore the transparent area and really reveal the shape in some cases. 
+
+2. The claculation of the spread of the radius in these two cases are differernt. 
+
+Cool Demo: https://codepen.io/Kseso/pen/Ajamv
