@@ -1,6 +1,6 @@
 # Travel service - branding page
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8dd3688a-8f84-4c53-8702-a2cd7fcbe574/deploy-status)]()
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8dd3688a-8f84-4c53-8702-a2cd7fcbe574/deploy-status)](https://travelfunservice.netlify.app)
 
 👆🏽 click to check the live page
 
@@ -8,6 +8,7 @@ This is a 1 page landing page.
 
 ## Demo
 
+<img width="1435" alt="Screen Shot 2021-08-20 at 11 04 17 AM" src="https://user-images.githubusercontent.com/51871665/130331087-bf1d851b-060c-407b-8c48-6c3f70bff1f4.png">
 
 ## How it's built
 
